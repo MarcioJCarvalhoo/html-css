@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+body {
+  background-color: rgba(0, 0, 0, 0.812);
+  color: white;
+}
+
+h1 {
+  text-align: center;
+}
+
+p {
+  text-decoration: none;
+  text-align: center;
+}
+
+div {
+  display: block;
+  text-align: center;
+}
+
+a {
+  color: white;
+}
+
+a.voltar {
+  display: block;
+  text-align: center;
+}
